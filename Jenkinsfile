@@ -21,4 +21,4 @@ sh 'java -jar target/lab1-1.0-SNAPSHOT.jar'
 }
 }
 }
-}
+
